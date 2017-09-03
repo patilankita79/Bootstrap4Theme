@@ -7,7 +7,7 @@ This is a a single page theme called LoopLab developed using Bootstrap 4 Beta. I
 <li>For smaller screens, collapse button is added so that we can see all the menus on navigation bar</li>
 <hr>
 <h3>Install dependencies</h3>
-<blockquote>$npm install</bloackquote>
+<blockquote>$npm install</blockquote>
 <br/>
 <h3>Compile Sass and run dev server</h3>
 <blocquote>$npm start</blockquote>
