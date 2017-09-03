@@ -6,6 +6,12 @@ This is a a single page theme called LoopLab developed using Bootstrap 4 Beta. I
 <li>Theme is responsive </li>
 <li>For smaller screens, collapse button is added so that we can see all the menus on navigation bar</li>
 <hr>
+<h3>Install dependencies</h3>
+<blockquote>$npm install</bloackquote>
+<br/>
+<h3>Compile Sass and run dev server</h3>
+<blocquote>$npm start</blockquote>
+<hr>
 <img src="https://github.com/patilankita79/Bootstrap4Theme/blob/master/Screenshots/Home.png" />
 <img src="https://github.com/patilankita79/Bootstrap4Theme/blob/master/Screenshots/Explore.png" />
 <img src="https://github.com/patilankita79/Bootstrap4Theme/blob/master/Screenshots/create.png" />
