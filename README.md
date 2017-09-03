@@ -8,9 +8,8 @@ This is a a single page theme called LoopLab developed using Bootstrap 4 Beta. I
 <hr>
 <h3>Install dependencies</h3>
 <blockquote>$npm install</blockquote>
-<br/>
 <h3>Compile Sass and run dev server</h3>
-<blocquote>$npm start</blockquote>
+<blockquote>$npm start</blockquote>
 <hr>
 <img src="https://github.com/patilankita79/Bootstrap4Theme/blob/master/Screenshots/Home.png" />
 <img src="https://github.com/patilankita79/Bootstrap4Theme/blob/master/Screenshots/Explore.png" />
